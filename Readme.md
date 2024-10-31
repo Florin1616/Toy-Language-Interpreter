@@ -1,3 +1,7 @@
+## Description
+This project is a toy language interpreter developed in Java with a graphical user interface built using JavaFX, following the Model-View-Controller architecture. It supports a range of operations, including arithmetic, logical, and relational expressions, as well as file operations and multithreaded control statements.
+The primary goal of this project is to offer insights into the execution flow of a program, from parsing through to execution.
+
 ## Features
 - **Expression Handling**: Supports arithmetic, logical, and relational expressions.
 - **Statements**: Implements various statements, including assignment, conditional (`if`), loops (`while`), and file operations.
