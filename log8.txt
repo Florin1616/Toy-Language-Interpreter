@@ -1,0 +1,400 @@
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: int var | var=5 | (while (var!=0) print(var) | var=var-1)  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: var=5 | (while (var!=0) print(var) | var=var-1)int var  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: var=5 | (while (var!=0) print(var) | var=var-1)int var  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: var=5 | (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: var=5 | (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=5  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=5  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->5 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->4 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->3 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->2 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)print(var) | var=var-1  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1print(var)  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 1 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)var=var-1  
+Sym Table: var->1 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 1 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 1 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack: (while (var!=0) print(var) | var=var-1)  
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 1 } 
+
+Thread number id: 8
+Program state
+File Table:  
+Exe Stack:   
+Sym Table: var->0 |  
+Heap: Empty heap 
+Output Console: {5 4 3 2 1 } 
+

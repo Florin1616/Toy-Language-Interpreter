@@ -1,0 +1,23 @@
+package View;
+
+public class Command {
+    private String key;
+    private String description;
+
+    public Command(String key, String description) {
+        this.key = key;
+        this.description = description;
+    }
+
+    public void execute() {
+
+    }
+
+    public String getKey() {
+        return key;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+}

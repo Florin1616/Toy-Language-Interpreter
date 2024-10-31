@@ -1,0 +1,328 @@
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7724a49c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 4
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@33dd4c50 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 4
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@33dd4c50 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3f99e55e 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 9
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@5ac8b84c 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 5
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@49607492 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 5
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@49607492 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 5
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@49607492 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 5
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@49607492 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@152afd5 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@5bdff4bb 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 3
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@2a2b3dc6 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 4
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@1a17d1cb 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 6
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@c4a2075 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@21e5fed2 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@6fce1414 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@6fce1414 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3b161f88 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3250913b 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7400bc27 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@7400bc27 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3b161f88 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 1
+Program state
+File Table:  
+Exe Stack: Model.ADTs.MyStack@3b161f88 
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+

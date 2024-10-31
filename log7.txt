@@ -1,0 +1,144 @@
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: Ref(int )v | new(v, 20) | print(rH(v)) | wH(v,30) | print(rH(v)+5)  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: new(v, 20) | print(rH(v)) | wH(v,30) | print(rH(v)+5)Ref(int )v  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: new(v, 20) | print(rH(v)) | wH(v,30) | print(rH(v)+5)Ref(int )v  
+Sym Table:  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: new(v, 20) | print(rH(v)) | wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(0, int ) |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: new(v, 20) | print(rH(v)) | wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(0, int ) |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)) | wH(v,30) | print(rH(v)+5)new(v, 20)  
+Sym Table: v->(0, int ) |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)) | wH(v,30) | print(rH(v)+5)new(v, 20)  
+Sym Table: v->(0, int ) |  
+Heap: Empty heap 
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)) | wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)) | wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: wH(v,30) | print(rH(v)+5)print(rH(v))  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: wH(v,30) | print(rH(v)+5)print(rH(v))  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {} 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: wH(v,30) | print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)+5)wH(v,30)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)+5)wH(v,30)  
+Sym Table: v->(1, int ) |  
+Heap: 1->20 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->30 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack: print(rH(v)+5)  
+Sym Table: v->(1, int ) |  
+Heap: 1->30 |  
+Output Console: {20 } 
+
+Thread number id: 7
+Program state
+File Table:  
+Exe Stack:   
+Sym Table: v->(1, int ) |  
+Heap: 1->30 |  
+Output Console: {20 35 } 
+
